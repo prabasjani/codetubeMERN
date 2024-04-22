@@ -1,0 +1,9 @@
+:root {
+  --bigCardBg: rgb(230, 240, 255);
+  --logoAndFontColor: rgb(3, 68, 157);
+  --iconBg: rgb(3, 68, 157);
+  --btnBg: rgb(3, 68, 157);
+  --courseCardBg: rgb(230, 240, 255);
+  --footerIconBg: rgb(80, 152, 252);
+  --footerBg: rgb(0, 11, 25);
+}
